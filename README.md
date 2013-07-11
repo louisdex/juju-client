@@ -1,7 +1,7 @@
-juju-core
-=========
+juju-client
+===========
 
-The core client, built for OSX. 
+The juju client, built for OSX. 
 
 Source code is currently not mirrored here. Find it at:
 

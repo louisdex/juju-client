@@ -15,5 +15,5 @@ The juju source lives upstream at
 
 and is mirrored on github
 
-- https://github.com/juju/juju-client/releases
+- https://github.com/juju/juju-core
 
